@@ -1,5 +1,5 @@
 # Eat Da Burger
-![Friend Finder Home](https://github.com/brianchilds-22/burger/blob/master/public/Screenshot%20(8).png) 
+![Friend Finder Home](https://github.com/brianchilds-22/burger/blob/master/public/screencapture-localhost-8080-2019-06-23-12_44_45.png) 
 ## How the App Works
 ### Front End
 * Enter the name of the burger in the space provided. 
