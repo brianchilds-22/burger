@@ -19,4 +19,3 @@
 * MYSQL and the orm.js file to store and update burger data entered from client
 * Express to route data with burger_controllers.js file
 
-Node Express Handlebars
