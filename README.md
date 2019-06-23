@@ -1,6 +1,5 @@
 # Eat Da Burger
-![burger/public/Screenshot (8).png](burger/public/Screenshot (8).png)
-Format: ![burger/public/Screenshot (8).png](burger/public/Screenshot (8).png)
+![Friend Finder Home](https://github.com/brianchilds-22/burger/blob/master/public/Screenshot%20(8).png) 
 ## How the App Works
 ### Front End
 * Enter the name of the burger in the space provided. 
