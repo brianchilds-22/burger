@@ -14,4 +14,9 @@
 * The app will store every burger in a database, whether devoured or not.
 
 ## Technology Used
+* HTML, Bootstrap and CSS for layout
+* Javascript to update the HTML
+* MYSQL and the orm.js file to store and update burger data entered from client
+* Express to route data with burger_controllers.js file
+
 Node Express Handlebars
