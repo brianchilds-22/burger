@@ -1,6 +1,6 @@
 # Eat Da Burger
 ![burger/public/Screenshot (8).png](burger/public/Screenshot (8).png)
-Format: ![Eat Da Burger](url)
+Format: ![burger/public/Screenshot (8).png](burger/public/Screenshot (8).png)
 ## How the App Works
 ### Front End
 * Enter the name of the burger in the space provided. 
