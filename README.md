@@ -1,5 +1,5 @@
 # Eat Da Burger
-![Eat Da Burger](burger/public/Screenshot (8).png)
+![burger/public/Screenshot (8).png](burger/public/Screenshot (8).png)
 Format: ![Eat Da Burger](url)
 ## How the App Works
 ### Front End
