@@ -1,8 +1,5 @@
-DROP DATABASE IF EXISTS burgers_db;
-CREATE DATABASE IF NOT EXISTS  burgers_db;
-USE burgers_db;
 
-CREATE TABLE burgers (
+CREATE TABLE ubf59h8ecre4nbj9 (
  id INT NOT NULL AUTO_INCREMENT,
   burger_name VARCHAR (100) NOT NULL,
   devoured BOOL DEFAULT false,
